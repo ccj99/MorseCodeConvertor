@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Morse</string>
+    <string name="str1">请输入英文字母:</string>
+    <string name="str2">请输入Morse电码:</string>
+    <string name="str3">转换结果:</string>
+</resources>
